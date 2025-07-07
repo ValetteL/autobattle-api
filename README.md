@@ -1,5 +1,3 @@
-Backend multijoueur en PHP (Symfony), avec WebSockets pour les combats temps réel, gestion d’inventaire, boutique et authentification sécurisée.
-
 # Autobattle API
 
 🔧 **Stack** : PHP (Symfony), WebSockets, MySQL  
