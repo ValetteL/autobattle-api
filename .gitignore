@@ -6,6 +6,8 @@
 /public/bundles/
 /var/
 /vendor/
+.idea
+*.log
 ###< symfony/framework-bundle ###
 
 ###> lexik/jwt-authentication-bundle ###
